@@ -1,0 +1,15 @@
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\bin\Debug\FizzBuzzGame.Tester.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\bin\Debug\FizzBuzzGame.Tester.pdb
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\obj\Debug\FizzBuzzGame.Tester.csproj.AssemblyReference.cache
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\obj\Debug\FizzBuzzGame.Tester.csproj.CoreCompileInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\obj\Debug\FizzBuzzGame.Tester.csproj.CopyComplete
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\obj\Debug\FizzBuzzGame.Tester.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame.Tester\obj\Debug\FizzBuzzGame.Tester.pdb

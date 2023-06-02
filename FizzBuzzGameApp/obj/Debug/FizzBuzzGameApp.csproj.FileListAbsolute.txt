@@ -1,0 +1,11 @@
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\bin\Debug\FizzBuzzGameApp.exe.config
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\bin\Debug\FizzBuzzGameApp.exe
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\bin\Debug\FizzBuzzGameApp.pdb
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\bin\Debug\FizzBuzzGame.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\bin\Debug\FizzBuzzGame.pdb
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\obj\Debug\FizzBuzzGameApp.csproj.AssemblyReference.cache
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\obj\Debug\FizzBuzzGameApp.csproj.SuggestedBindingRedirects.cache
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\obj\Debug\FizzBuzzGameApp.csproj.CoreCompileInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\obj\Debug\FizzBuzzGameApp.csproj.CopyComplete
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\obj\Debug\FizzBuzzGameApp.exe
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGameApp\obj\Debug\FizzBuzzGameApp.pdb

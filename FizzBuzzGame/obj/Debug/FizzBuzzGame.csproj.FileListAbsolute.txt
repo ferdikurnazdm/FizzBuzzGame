@@ -1,0 +1,6 @@
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame\bin\Debug\FizzBuzzGame.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame\bin\Debug\FizzBuzzGame.pdb
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.csproj.AssemblyReference.cache
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.csproj.CoreCompileInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.dll
+D:\Users\ferdi.kurnaz\source\repos\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.pdb
